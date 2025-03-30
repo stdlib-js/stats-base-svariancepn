@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8e9e556`](https://github.com/stdlib-js/stdlib/commit/8e9e556cbd76873f3418d4b999f1c2f125282a0d) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ece5e44`](https://github.com/stdlib-js/stdlib/commit/ece5e447db05e52c5eb951075c8dfc5cb25d082e) - **feat:** add C ndarray interface and refactor implementation for `stats/base/svariancepn` [(#4766)](https://github.com/stdlib-js/stdlib/pull/4766) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`6a5404b`](https://github.com/stdlib-js/stdlib/commit/6a5404b69fa97b5a2d8e533a241af082ef98a527) - **refactor:** update `stats/base/svariancepn` native addon from C++ to C [(#4230)](https://github.com/stdlib-js/stdlib/pull/4230) _(by Vinit Pandit)_
